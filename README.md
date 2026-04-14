@@ -1,9 +1,9 @@
-#APLIKASI PARKIR DIGITAL
+# APLIKASI PARKIR DIGITAL
 
 Adalah sebuah sistem yang mempermudah kegiatan parkir kendaraan, 
 sistem ini membantu proses transaksi dan memonitoring area parkir secara realtime
 
-#Fitur-fitur
+# Fitur-fitur
 
 -CRUD USER
 -CRUD KENDARAAN
