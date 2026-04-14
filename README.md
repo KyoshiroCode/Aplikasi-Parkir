@@ -5,9 +5,9 @@ sistem ini membantu proses transaksi dan memonitoring area parkir secara realtim
 
 # Fitur-fitur
 
--CRUD USER
--CRUD KENDARAAN
--CRUD TRANSAKSI
--REKAP TRANSAKSI
--ADMIN PANEL
--MONITORING AREA PARKIR
+- CRUD USER
+- CRUD KENDARAAN
+- CRUD TRANSAKSI
+- REKAP TRANSAKSI
+- ADMIN PANEL
+- MONITORING AREA PARKIR
